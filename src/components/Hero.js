@@ -1,8 +1,8 @@
 
 export const Hero = () => {
   return (
-    <div className="hero-section h-[100vh] relative">
-        <div className="w-[500px] absolute top-[33%] left-[10%] text-center">
+    <div className="hero-section lg:h-[100vh] h-[70vh] relative">
+        <div className="w-[50%] absolute top-[33%] left-[100px] text-center">
             <p className="text-[45px] font-[900] leading-10">Let us find your<br/> <span className="text-[#e11d48]">Forever Food.</span></p>
             <p className="text-[20px] mt-[5%]">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt illo tenetur fuga ducimus numquam ea!</p>
             <div className="mt-[5%]">
