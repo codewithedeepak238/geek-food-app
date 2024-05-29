@@ -1,8 +1,8 @@
 
 export const Card = () => {
   return (
-    <div className="lg:w-[30%] w-[48%] m-[1%]">
-        <div className="rounded-[8px] bg-[#f3f4f6] p-[5%]">
+    <div className="lg:w-[30%] md:w-[48%] w-[100%] m-[1%]">
+        <div className="rounded-[8px] bg-[#f3f4f6] p-[5%] shadow-md">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime minima dicta amet, molestiae aliquam incidunt suscipit recusandae labore ratione doloremque, architecto et illo minus quo tenetur ducimus, voluptatibus repellendus fuga aperiam vel ab! Ipsam corrupti blanditiis dolorum! Officia assumenda rem nam, eveniet enim ad inventore laudantium est illum voluptatem quis.</p>
         </div>
         <div className="flex items-center mt-[4%]">
